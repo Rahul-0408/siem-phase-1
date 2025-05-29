@@ -1,0 +1,1 @@
+plug in pedrive and excute a file and watch logs of sysmon and winlogbeat
